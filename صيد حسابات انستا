@@ -1,0 +1,37 @@
+🎁A tool to hack accounts on Instagram and large accounts
+How to use
+First, your ID
+Secondly, your bot code⚫
+
+
+$- apt update && apt upgrade
+
+$- apt install python
+
+$- apt install git
+
+$- pkg install git
+
+$- apt update
+
+$- pkg install python3
+
+$- pkg install python
+
+$- pip install Topython
+
+$- pip install PySocks
+
+$- pip install requests
+
+$- pip install curl2pyreqs
+
+$- pip install socks
+
+$-  git clone https://github.com/aleankabut/insta-.git
+
+$- cd insta
+
+$- pip install -r requirements.txt
+
+$- python insta.py
